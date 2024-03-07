@@ -7,6 +7,10 @@
 
 "token_secret_salud":"V_zVufsdQ8K7f8g3AjxeLj8hD6lEkX38cbhC",
 
-"token_secret_Tyler":"8fPGEzdtIIZpfyEhzvYJf8d3hVTGOMIZ6imd"
+"token_secret_Tyler":"8fPGEzdtIIZpfyEhzvYJf8d3hVTGOMIZ6imd",
+
+
+"app_token_api_interna" = 'sZImbSjwq6gO4eyGgKkNXSC1I'
+
 
 }
